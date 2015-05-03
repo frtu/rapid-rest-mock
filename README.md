@@ -7,6 +7,13 @@ mvn spring-boot:run
 ``
 
 When server is started, just open a browser at :
+
+* ALPS service auto discovery 
 ``
-http://localhost:8080/results
+http://localhost:8080/
+``
+
+* Our sample REST service
+``
+http://localhost:8080/movies
 ``
